@@ -1,0 +1,5 @@
+{
+  "name": "Stats Structurizer",
+  "description": "A tool to convert raw copied sports statistics text into structured data tables and JSON format without using AI.",
+  "requestFramePermissions": []
+}
